@@ -1,0 +1,15 @@
+{
+  "name": "temp",
+  "version": "1.0.0",
+  "description": "temp application curso node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cesar Martinez",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^15.3.1"
+  }
+}
